@@ -1,26 +1,26 @@
 [
   {
     "id": 1024,
-    "username": "BexHaze",
+    "username": "@BexHaze",
     "fullName": "Tolga",
     "email": "istebutolga@gmail.com",
-    "bio": "Yazılım meraklısı, AI Agent geliştiricisi.",
+    "bio": "Persor CEO.",
     "isActive": true,
     "joinedAt": "2023-11-15T14:30:00Z",
     "socialLinks": {
       "telegram": "https://t.me/bexhaze"
     }
   },
-  {
-    "id": 1025,
-    "username": "openrouter.ai",
-    "fullName": "Openrouter",
-    "email": "support@openrouter.ai",
-    "bio": "",
+    {
+    "id": 1024,
+    "username": "@hummetlitunar",
+    "fullName": "Tunar Hümmətli",
+    "email": "tuna.hummetov@gmail.com",
+    "bio": "Persor Productor",
     "isActive": true,
-    "joinedAt": "2023-01-20T09:15:00Z",
+    "joinedAt": "2023-11-15T14:30:00Z",
     "socialLinks": {
-      "Discord": "https://discord.gg/openrouter"
+      "telegram": "https://t.me/hummetlitunar"
     }
   }
 ]
